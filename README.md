@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JavaScript](/twittercover_final.jpg)
+![JavaScript](twittercover_final.jpg)
