@@ -1,1 +1,1 @@
-![JavaScript](https://jasynmarais.com/img/twittercover_final.jpg)
+![JavaScript](/twittercover_final.jpg)
