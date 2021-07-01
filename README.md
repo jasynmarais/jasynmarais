@@ -1,1 +1,1 @@
-![JavaScript](/twittercover_final.jpg)
+![JavaScript](/solidity_twitter.jpg)
