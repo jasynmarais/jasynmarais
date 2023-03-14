@@ -1,1 +1,1 @@
-![Tux](/twittercover.jpg)
+![Tux](/twittercover.png)
